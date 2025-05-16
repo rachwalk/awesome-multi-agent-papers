@@ -67,6 +67,7 @@ A compilation of the best multi-agent papers by the [Swarms](https://github.com/
 - **[MultiAgentBench: Evaluating the Collaboration and Competition of LLM Agents](https://arxiv.org/abs/2503.01935)**
 - **[TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks](https://arxiv.org/abs/2412.14161)**
 - **[BoxingGym: Benchmarking Progress in Automated Experimental Design](https://arxiv.org/abs/2501.01540)**
+- **[RAI: Flexible Agent Framework for Embodied AI](https://arxiv.org/abs/2505.07532)**
 
 ## Application-Specific Multi-Agent Systems
 
